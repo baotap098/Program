@@ -1,0 +1,7 @@
+J:\Mang\Client_2\Client_2\bin\Debug\Client_2.exe.config
+J:\Mang\Client_2\Client_2\bin\Debug\Client_2.exe
+J:\Mang\Client_2\Client_2\bin\Debug\Client_2.pdb
+J:\Mang\Client_2\Client_2\obj\Debug\Client_2.csproj.CoreCompileInputs.cache
+J:\Mang\Client_2\Client_2\obj\Debug\Client_2.exe
+J:\Mang\Client_2\Client_2\obj\Debug\Client_2.pdb
+J:\Mang\Client_2\Client_2\obj\Debug\Client_2.csprojAssemblyReference.cache

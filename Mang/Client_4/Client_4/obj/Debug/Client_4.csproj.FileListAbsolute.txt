@@ -1,0 +1,7 @@
+J:\Mang\Client_4\Client_4\bin\Debug\Client_4.exe.config
+J:\Mang\Client_4\Client_4\bin\Debug\Client_4.exe
+J:\Mang\Client_4\Client_4\bin\Debug\Client_4.pdb
+J:\Mang\Client_4\Client_4\obj\Debug\Client_4.csprojAssemblyReference.cache
+J:\Mang\Client_4\Client_4\obj\Debug\Client_4.csproj.CoreCompileInputs.cache
+J:\Mang\Client_4\Client_4\obj\Debug\Client_4.exe
+J:\Mang\Client_4\Client_4\obj\Debug\Client_4.pdb

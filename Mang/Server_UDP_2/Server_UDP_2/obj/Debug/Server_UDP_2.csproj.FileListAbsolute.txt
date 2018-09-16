@@ -1,0 +1,7 @@
+J:\Mang\Server_UDP_2\Server_UDP_2\bin\Debug\Server_UDP_2.exe.config
+J:\Mang\Server_UDP_2\Server_UDP_2\bin\Debug\Server_UDP_2.exe
+J:\Mang\Server_UDP_2\Server_UDP_2\bin\Debug\Server_UDP_2.pdb
+J:\Mang\Server_UDP_2\Server_UDP_2\obj\Debug\Server_UDP_2.csprojAssemblyReference.cache
+J:\Mang\Server_UDP_2\Server_UDP_2\obj\Debug\Server_UDP_2.csproj.CoreCompileInputs.cache
+J:\Mang\Server_UDP_2\Server_UDP_2\obj\Debug\Server_UDP_2.exe
+J:\Mang\Server_UDP_2\Server_UDP_2\obj\Debug\Server_UDP_2.pdb

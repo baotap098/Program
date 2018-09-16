@@ -1,0 +1,7 @@
+J:\Mang\Server\Server\bin\Debug\Server.exe.config
+J:\Mang\Server\Server\bin\Debug\Server.exe
+J:\Mang\Server\Server\bin\Debug\Server.pdb
+J:\Mang\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+J:\Mang\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+J:\Mang\Server\Server\obj\Debug\Server.exe
+J:\Mang\Server\Server\obj\Debug\Server.pdb

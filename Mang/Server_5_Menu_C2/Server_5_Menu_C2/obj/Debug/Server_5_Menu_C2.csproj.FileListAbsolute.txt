@@ -1,0 +1,7 @@
+J:\Mang\Server_5_Menu_C2\Server_5_Menu_C2\bin\Debug\Server_5_Menu_C2.exe.config
+J:\Mang\Server_5_Menu_C2\Server_5_Menu_C2\bin\Debug\Server_5_Menu_C2.exe
+J:\Mang\Server_5_Menu_C2\Server_5_Menu_C2\bin\Debug\Server_5_Menu_C2.pdb
+J:\Mang\Server_5_Menu_C2\Server_5_Menu_C2\obj\Debug\Server_5_Menu_C2.csprojAssemblyReference.cache
+J:\Mang\Server_5_Menu_C2\Server_5_Menu_C2\obj\Debug\Server_5_Menu_C2.csproj.CoreCompileInputs.cache
+J:\Mang\Server_5_Menu_C2\Server_5_Menu_C2\obj\Debug\Server_5_Menu_C2.exe
+J:\Mang\Server_5_Menu_C2\Server_5_Menu_C2\obj\Debug\Server_5_Menu_C2.pdb

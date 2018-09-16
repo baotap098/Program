@@ -1,0 +1,7 @@
+J:\Mang\Client_3\Client_3\bin\Debug\Client_3.exe.config
+J:\Mang\Client_3\Client_3\bin\Debug\Client_3.exe
+J:\Mang\Client_3\Client_3\bin\Debug\Client_3.pdb
+J:\Mang\Client_3\Client_3\obj\Debug\Client_3.csprojAssemblyReference.cache
+J:\Mang\Client_3\Client_3\obj\Debug\Client_3.csproj.CoreCompileInputs.cache
+J:\Mang\Client_3\Client_3\obj\Debug\Client_3.exe
+J:\Mang\Client_3\Client_3\obj\Debug\Client_3.pdb

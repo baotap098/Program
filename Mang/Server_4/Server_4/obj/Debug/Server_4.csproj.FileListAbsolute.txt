@@ -1,0 +1,7 @@
+J:\Mang\Server_4\Server_4\bin\Debug\Server_4.exe.config
+J:\Mang\Server_4\Server_4\bin\Debug\Server_4.exe
+J:\Mang\Server_4\Server_4\bin\Debug\Server_4.pdb
+J:\Mang\Server_4\Server_4\obj\Debug\Server_4.csprojAssemblyReference.cache
+J:\Mang\Server_4\Server_4\obj\Debug\Server_4.csproj.CoreCompileInputs.cache
+J:\Mang\Server_4\Server_4\obj\Debug\Server_4.exe
+J:\Mang\Server_4\Server_4\obj\Debug\Server_4.pdb

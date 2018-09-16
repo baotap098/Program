@@ -1,0 +1,7 @@
+J:\Mang\Sever_UDP_1\Sever_UDP_1\bin\Debug\Sever_UDP_1.exe.config
+J:\Mang\Sever_UDP_1\Sever_UDP_1\bin\Debug\Sever_UDP_1.exe
+J:\Mang\Sever_UDP_1\Sever_UDP_1\bin\Debug\Sever_UDP_1.pdb
+J:\Mang\Sever_UDP_1\Sever_UDP_1\obj\Debug\Sever_UDP_1.csprojAssemblyReference.cache
+J:\Mang\Sever_UDP_1\Sever_UDP_1\obj\Debug\Sever_UDP_1.csproj.CoreCompileInputs.cache
+J:\Mang\Sever_UDP_1\Sever_UDP_1\obj\Debug\Sever_UDP_1.exe
+J:\Mang\Sever_UDP_1\Sever_UDP_1\obj\Debug\Sever_UDP_1.pdb
