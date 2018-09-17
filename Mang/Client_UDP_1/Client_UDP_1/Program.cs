@@ -11,7 +11,7 @@ namespace Client_UDP_1
     {
         static void Main(string[] args)
         {
-            // hello
+            
             //B1: mo port
             UdpClient client = new UdpClient("127.0.0.1",9050);
 
