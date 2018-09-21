@@ -15,7 +15,7 @@ namespace Server_1
             // Client in orther computer
             //
             //B1:
-            TcpListener ss = new TcpListener(1234);
+            TcpListener ss = new TcpListener(9095);
             ss.Start();
             Socket Client = ss.AcceptSocket();
             //B2:
