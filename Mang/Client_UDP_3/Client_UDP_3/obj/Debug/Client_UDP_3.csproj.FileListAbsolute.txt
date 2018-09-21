@@ -1,0 +1,7 @@
+J:\Mang\Client_UDP_3\Client_UDP_3\bin\Debug\Client_UDP_3.exe.config
+J:\Mang\Client_UDP_3\Client_UDP_3\bin\Debug\Client_UDP_3.exe
+J:\Mang\Client_UDP_3\Client_UDP_3\bin\Debug\Client_UDP_3.pdb
+J:\Mang\Client_UDP_3\Client_UDP_3\obj\Debug\Client_UDP_3.csprojAssemblyReference.cache
+J:\Mang\Client_UDP_3\Client_UDP_3\obj\Debug\Client_UDP_3.csproj.CoreCompileInputs.cache
+J:\Mang\Client_UDP_3\Client_UDP_3\obj\Debug\Client_UDP_3.exe
+J:\Mang\Client_UDP_3\Client_UDP_3\obj\Debug\Client_UDP_3.pdb

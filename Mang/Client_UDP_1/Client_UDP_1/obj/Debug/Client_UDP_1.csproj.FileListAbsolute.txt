@@ -5,10 +5,3 @@ J:\Mang\Client_UDP_1\Client_UDP_1\obj\Debug\Client_UDP_1.csprojAssemblyReference
 J:\Mang\Client_UDP_1\Client_UDP_1\obj\Debug\Client_UDP_1.csproj.CoreCompileInputs.cache
 J:\Mang\Client_UDP_1\Client_UDP_1\obj\Debug\Client_UDP_1.exe
 J:\Mang\Client_UDP_1\Client_UDP_1\obj\Debug\Client_UDP_1.pdb
-J:\GitHub\Mang\Client_UDP_1\Client_UDP_1\bin\Debug\Client_UDP_1.exe.config
-J:\GitHub\Mang\Client_UDP_1\Client_UDP_1\bin\Debug\Client_UDP_1.exe
-J:\GitHub\Mang\Client_UDP_1\Client_UDP_1\bin\Debug\Client_UDP_1.pdb
-J:\GitHub\Mang\Client_UDP_1\Client_UDP_1\obj\Debug\Client_UDP_1.csprojAssemblyReference.cache
-J:\GitHub\Mang\Client_UDP_1\Client_UDP_1\obj\Debug\Client_UDP_1.csproj.CoreCompileInputs.cache
-J:\GitHub\Mang\Client_UDP_1\Client_UDP_1\obj\Debug\Client_UDP_1.exe
-J:\GitHub\Mang\Client_UDP_1\Client_UDP_1\obj\Debug\Client_UDP_1.pdb

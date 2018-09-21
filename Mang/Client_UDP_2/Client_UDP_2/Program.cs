@@ -12,7 +12,7 @@ namespace Client_UDP_2
     {
         static void Main(string[] args)
         {
-            UdpClient client = new UdpClient("172.0.0.1", 9050);
+            UdpClient client = new UdpClient("127.0.0.1", 9050);
             IPEndPoint server = new IPEndPoint(IPAddress.Any, 0);
             Console.WriteLine("Nhap so A : ");
             String so = Console.ReadLine();
