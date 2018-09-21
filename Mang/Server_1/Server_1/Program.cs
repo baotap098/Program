@@ -13,7 +13,6 @@ namespace Server_1
         static void Main(string[] args)
         {
             // Client in orther computer
-            //
             //B1:
             TcpListener ss = new TcpListener(9095);
             ss.Start();
