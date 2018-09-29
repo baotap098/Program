@@ -1,7 +1,0 @@
-J:\GH_Mang\Mang\Server_1\Server_1\bin\Debug\Server_1.exe.config
-J:\GH_Mang\Mang\Server_1\Server_1\bin\Debug\Server_1.exe
-J:\GH_Mang\Mang\Server_1\Server_1\bin\Debug\Server_1.pdb
-J:\GH_Mang\Mang\Server_1\Server_1\obj\Debug\Server_1.csprojAssemblyReference.cache
-J:\GH_Mang\Mang\Server_1\Server_1\obj\Debug\Server_1.csproj.CoreCompileInputs.cache
-J:\GH_Mang\Mang\Server_1\Server_1\obj\Debug\Server_1.exe
-J:\GH_Mang\Mang\Server_1\Server_1\obj\Debug\Server_1.pdb

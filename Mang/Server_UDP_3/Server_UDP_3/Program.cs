@@ -35,9 +35,6 @@ namespace Server_UDP_3
                 ++i;
             }
 
-
-            
-
             server.Close();
         }
     }

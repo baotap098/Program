@@ -35,23 +35,11 @@ namespace Client_UDP_3
             {
                 data = client.Receive(ref server);
                 dataTemp = Encoding.ASCII.GetString(data);
+
                 dataInfo = dataTemp.Split(';');
 
                 dataArry[int.Parse(dataInfo[0])] = int.Parse(dataInfo[1]);
-                
-                //timeReceive = float.Parse(DateTime.Now.ToString("s.ff"));
-                //if (timeReceive - timeSend > 1.0)
-                //{
-                //    data = Encoding.ASCII.GetBytes("001");
-                //    client.Send(data, data.Length, server);
-                //}
-                //else
-                //{
-
-                //}
             }
-
-
 
             Console.ReadLine();
             client.Close();
