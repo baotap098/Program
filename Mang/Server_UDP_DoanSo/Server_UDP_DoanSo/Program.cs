@@ -29,8 +29,6 @@ namespace Server_UDP_DoanSo
             OpenConnetion();
             numberRandom = NumberRandom(0, 100);
             Console.WriteLine("Number random is: " + numberRandom);
-            //Console.WriteLine(ReceiveDataFromClient(ref client));
-            //Console.ReadLine();
             while (true)
             {
                 str = ReceiveDataFromClient(ref client);
@@ -100,7 +98,7 @@ namespace Server_UDP_DoanSo
             }
             return true;
         }
-        static string ReceiveDataFromClient(ref IPEndPoint client)
+        static String ReceiveDataFromClient(ref IPEndPoint client)
         {
             String str = "";
             data = server.Receive(ref client);

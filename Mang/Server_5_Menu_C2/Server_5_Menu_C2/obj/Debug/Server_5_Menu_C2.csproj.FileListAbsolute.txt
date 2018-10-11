@@ -5,3 +5,10 @@ J:\Mang\Server_5_Menu_C2\Server_5_Menu_C2\obj\Debug\Server_5_Menu_C2.csprojAssem
 J:\Mang\Server_5_Menu_C2\Server_5_Menu_C2\obj\Debug\Server_5_Menu_C2.csproj.CoreCompileInputs.cache
 J:\Mang\Server_5_Menu_C2\Server_5_Menu_C2\obj\Debug\Server_5_Menu_C2.exe
 J:\Mang\Server_5_Menu_C2\Server_5_Menu_C2\obj\Debug\Server_5_Menu_C2.pdb
+J:\G_Program\Mang\Server_5_Menu_C2\Server_5_Menu_C2\bin\Debug\Server_5_Menu_C2.exe.config
+J:\G_Program\Mang\Server_5_Menu_C2\Server_5_Menu_C2\bin\Debug\Server_5_Menu_C2.exe
+J:\G_Program\Mang\Server_5_Menu_C2\Server_5_Menu_C2\bin\Debug\Server_5_Menu_C2.pdb
+J:\G_Program\Mang\Server_5_Menu_C2\Server_5_Menu_C2\obj\Debug\Server_5_Menu_C2.csprojAssemblyReference.cache
+J:\G_Program\Mang\Server_5_Menu_C2\Server_5_Menu_C2\obj\Debug\Server_5_Menu_C2.csproj.CoreCompileInputs.cache
+J:\G_Program\Mang\Server_5_Menu_C2\Server_5_Menu_C2\obj\Debug\Server_5_Menu_C2.exe
+J:\G_Program\Mang\Server_5_Menu_C2\Server_5_Menu_C2\obj\Debug\Server_5_Menu_C2.pdb

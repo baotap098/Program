@@ -5,3 +5,10 @@ J:\Mang\Client_5_Menu_C2\Client_5_Menu_C2\obj\Debug\Client_5_Menu_C2.csprojAssem
 J:\Mang\Client_5_Menu_C2\Client_5_Menu_C2\obj\Debug\Client_5_Menu_C2.csproj.CoreCompileInputs.cache
 J:\Mang\Client_5_Menu_C2\Client_5_Menu_C2\obj\Debug\Client_5_Menu_C2.exe
 J:\Mang\Client_5_Menu_C2\Client_5_Menu_C2\obj\Debug\Client_5_Menu_C2.pdb
+J:\G_Program\Mang\Client_5_Menu_C2\Client_5_Menu_C2\bin\Debug\Client_5_Menu_C2.exe.config
+J:\G_Program\Mang\Client_5_Menu_C2\Client_5_Menu_C2\bin\Debug\Client_5_Menu_C2.exe
+J:\G_Program\Mang\Client_5_Menu_C2\Client_5_Menu_C2\bin\Debug\Client_5_Menu_C2.pdb
+J:\G_Program\Mang\Client_5_Menu_C2\Client_5_Menu_C2\obj\Debug\Client_5_Menu_C2.csprojAssemblyReference.cache
+J:\G_Program\Mang\Client_5_Menu_C2\Client_5_Menu_C2\obj\Debug\Client_5_Menu_C2.csproj.CoreCompileInputs.cache
+J:\G_Program\Mang\Client_5_Menu_C2\Client_5_Menu_C2\obj\Debug\Client_5_Menu_C2.exe
+J:\G_Program\Mang\Client_5_Menu_C2\Client_5_Menu_C2\obj\Debug\Client_5_Menu_C2.pdb

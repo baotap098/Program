@@ -18,6 +18,7 @@ namespace Server_UDP_Mult_1
         }
         static DataClient[] listInfoClients = new DataClient[MAXSIZE];
         static int numberOfListInfoClients = 0;
+
         static int[] listCountNumber = new int[MAXSIZE];
 
         static UdpClient server;
@@ -35,6 +36,7 @@ namespace Server_UDP_Mult_1
 
                 int indexClient = IndexOfClient(listInfoClients, client);
                 Console.WriteLine(str + " Index =  " + indexClient);
+
                 // when Client is not old Client
                 if (indexClient == -1)
                 {
@@ -80,6 +82,7 @@ namespace Server_UDP_Mult_1
                     else
                     {
                         listCountNumber[indexClient] = int.Parse(arrStr[2]);
+                        // show infomation 
                         Console.WriteLine("listCountNumber [" + indexClient + "] =" + listCountNumber[indexClient]);
                         Console.WriteLine("number of listInfoClients [" + indexClient + "]" + listInfoClients[indexClient].number);
                         Console.WriteLine("Client [" + indexClient + "] =" + listInfoClients[indexClient].client.ToString() + " have " + numberOfListInfoClients + " Clients");

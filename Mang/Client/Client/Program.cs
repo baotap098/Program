@@ -15,7 +15,7 @@ namespace Client
         {
             //B1: Mo port, ket noi vs Server
             TcpClient cl = new TcpClient("127.0.0.1",123);
-            //B2: Tao luong
+            //B2: Tao luon
             NetworkStream ns = cl.GetStream();
             StreamReader sr = new StreamReader(ns);
             StreamWriter sw = new StreamWriter(ns);
