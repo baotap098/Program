@@ -118,7 +118,7 @@ namespace Server_UDP_Menu
                         int count = 0;
                         for (int i = 0; i < 3; ++i)
                         {
-                            if (CheckPrimeNumber(arr[i]))
+                            if (CheckPrimeNumber(arr[i]) == true)
                             {
                                 Console.WriteLine(arr[i]);
                                 count++;
